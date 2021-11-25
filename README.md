@@ -2,7 +2,4 @@
 
 
 ## Some Screenshots of the sample in desktop and mobile version
-<div align="center">
-    <img src="/img/Screenshot(81).png" width="400px"</img> 
-</div>
-
+![image](https://drive.google.com/file/d/1fDWm_FZ5uXy2APMefmGRVpWo2ZU9Rkh-/view?usp=sharing)
