@@ -2,4 +2,7 @@
 
 
 ## Some Screenshots of the sample in desktop and mobile version
-![image](https://drive.google.com/file/d/1fDWm_FZ5uXy2APMefmGRVpWo2ZU9Rkh-/view?usp=sharing)
+Please see the images in the img folder of the repo. 
+
+
+<i>Will upload soon the screenshots🤘</i>
